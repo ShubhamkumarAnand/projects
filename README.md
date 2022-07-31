@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/projects">Projects</a></h1>
+<h1><a href="https://ShubhamkumarAnand.github.io/projects">Projects</a></h1>
 
 <a href="https://github.com/2KAbhishek/projects/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/projects?style=flat&color=eee&label="> </a>
@@ -17,8 +17,8 @@
 <a href="https://github.com/2KAbhishek/projects/watchers">
 <img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/projects?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/projects?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/ShubhamkumarAnand/projects/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/ShubhamkumarAnand/projects?style=flat&color=e06c75&label="> </a>
 
 <h3>Showcase All Your Projects 🛍️🎇</h3>
 
@@ -39,14 +39,14 @@ Also shows pretty programming icons using `devicons`.
 
 ## Inspiration
 
-Needed a way to display all my projects, used my [portfolio's project section](https://2kabhishek.github.io/#projects) as inspiration.
+Needed a way to display all my projects, used my [portfolio's project section](https://ShubhamkumarAnand.github.io/#projects) as inspiration.
 
 ## Getting Projects
 
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
+git clone https://github.com/ShubhamkumarAnand/projects
 cd projects
 ```
 
@@ -85,7 +85,7 @@ You can either wait for an hour or setup a personal access token on GitHub and p
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://2kabhishek.github.io/projects).
+Open `index.html` in your favorite browser or visit [ShubhamkumarAnand.github.io/projects](https://2kabhishek.github.io/projects).
 
 ## How it was built
 
@@ -108,6 +108,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/projects">Source</a> | <a href="https://2kabhishek.github.io/projects">Website</a>
+<a href="https://github.com/ShubhamkumarAnand/projects">Source</a> | <a href="https://ShubhamkumarAnand.github.io/projects">Website</a>
 
 </div>
