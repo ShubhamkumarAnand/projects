@@ -66,7 +66,7 @@ The site should be live on `https://<your-username>.github.io/projects`
 
 Here's the projects page for [@sindresorhus](github.com/sindresorhus)
 
-![sindresorhus's projects](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n78j6j4itdbad2cg2h0h.png) 
+![sindresorhus's projects](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n78j6j4itdbad2cg2h0h.png)
 
 #### Number Of Repos
 
@@ -74,6 +74,7 @@ The number of repos is controlled by the `maxPages` variable, the GitHub API sup
 If you have less than 100 repos, set `maxPages` to 1, if you have 300 then 3.
 
 You can also edit the fetch query to reduce the per page repo count.
+
 > There's no pagination, all repos are shown on the same page.
 
 #### Authenticated Requests
